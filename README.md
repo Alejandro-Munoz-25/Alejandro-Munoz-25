@@ -10,7 +10,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/
+[2]: https://www.linkedin.com/in/alejandro-mu%C3%B1oz-casta/
 <!--
 **Alejandro-Munoz-25/Alejandro-Munoz-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
