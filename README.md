@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/alejandro-mu%c3%b1oz-casta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/alejandro-mu%c3%b1oz-casta/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alejaandromunoz25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="alejaandromunoz25" height="30" width="40" style="fill:white;" /></a>
+<a href="https://www.leetcode.com/alejaandromunoz25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="alejaandromunoz25" height="30" width="40" style=" filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
