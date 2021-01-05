@@ -19,3 +19,5 @@
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro-munoz-25&show_icons=true&theme=radical&locale=en&layout=compact" alt="alejandro-munoz-25" /></p>
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandro-munoz-25&show_icons=true&theme=radical&hide=issues,contribs&locale=en" alt="alejandro-munoz-25" /></p>
 <p>
+
+<p align="center"><figure><embed src="https://wakatime.com/share/@03dc2a25-39a0-455b-abe9-00936ba60896/88bf8d45-427a-4f57-9dae-b31ea4b90154.svg"></embed></figure></p>
