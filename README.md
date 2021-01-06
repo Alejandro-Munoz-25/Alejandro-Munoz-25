@@ -18,43 +18,47 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="./images/cplus.png" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./images/css.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank"> <img src="/images/dart.png" alt="dart" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="/images/nodejs-horizontal.svg" alt="express" width="40" height="40"/></a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="/images/html.png" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="/images/java.png" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="/images/js.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank"> <img src="/images/matlab.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="/images/php.png" alt="php" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com" target="_blank"> <img src="/images/sass.png" alt="sass" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="/images/typescript.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
+<h4>DataBase</h4>
+<hr>
+<p align="center">
+<a href="https://www.mongodb.com/" target="_blank"> <img src="/images/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="/images/mysql.png" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="/images/postgre.png" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 <h4>Frameworks</h4>
 <hr>
+<p  align="center">
+<a href="https://angular.io" target="_blank"><img src="/images/angular.png" alt="angularjs" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank"> <img src="/images/flutter.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank"> <img src="/images/spring.svg" alt="spring" width="40" height="40"/> </a>
+</p>
 <h4>Tools</h4>
 <hr>
-<p align="center">
- <!--<a href="https://developer.android.com" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>
- </a>-->
- <a href="https://angular.io" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angularjs" width="40" height="40"/> 
- </a> 
- <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  
- 
- <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
- <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://www.oracle.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
- <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
- <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<p  align="center">
+<a href="https://www.arduino.cc/" target="_blank"><img src="/images/arduino.png" alt="arduino" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"><img src="/images/firebase.png" alt="firebase" width="40" height="40"/></a>
+<a href="https://heroku.com" target="_blank"> <img src="/images/heroku.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="/images/ubuntu.png" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="/images/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank"> <img src="/images/postman.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="/images/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="/images/git.svg" alt="git" width="40" height="40"/> </a> 
 </p>
+<!-- <p align="center">
+ <a href="https://developer.android.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>
+ </a> 
+</p>
+ -->
 
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro-munoz-25&show_icons=true&theme=radical&locale=en&layout=compact" alt="alejandro-munoz-25" /></p>
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandro-munoz-25&show_icons=true&theme=radical&hide=issues,contribs&locale=en" alt="alejandro-munoz-25" /></p>
