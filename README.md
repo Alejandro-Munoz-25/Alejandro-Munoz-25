@@ -18,40 +18,40 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="./images/cplus.png" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./images/css.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank"> <img src="/images/dart.png" alt="dart" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="/images/nodejs-horizontal.svg" alt="express" width="40" height="40"/></a> 
+<a href="https://expressjs.com" target="_blank"> <img src="/images/nodejs-horizontal.svg" alt="express" width="50" height="40"/></a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="/images/html.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="/images/java.png" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="/images/java.png" alt="java" width="60" height="50"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="/images/js.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank"> <img src="/images/matlab.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="/images/php.png" alt="php" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/" target="_blank"> <img src="/images/matlab.png" alt="matlab" width="100" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="/images/php.png" alt="php" width="50" height="50"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="/images/sass.png" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="/images/typescript.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 <h4>DataBase</h4>
 <hr>
 <p align="center">
-<a href="https://www.mongodb.com/" target="_blank"> <img src="/images/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="/images/mysql.png" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="/images/postgre.png" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="/images/mongodb.svg" alt="mongodb" width="70" height="60"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="/images/mysql.png" alt="mysql" width="70" height="50"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="/images/postgre.png" alt="postgresql" width="100" height="50"/> </a> 
 </p>
 <h4>Frameworks</h4>
 <hr>
 <p  align="center">
-<a href="https://angular.io" target="_blank"><img src="/images/angular.png" alt="angularjs" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank"> <img src="/images/flutter.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank"> <img src="/images/spring.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank"><img src="/images/angular.png" alt="angularjs" width="50" height="50"/> </a> 
+<a href="https://flutter.dev" target="_blank"> <img src="/images/flutter.svg" alt="flutter" width="60" height="50"/> </a> 
+<a href="https://spring.io/" target="_blank"> <img src="/images/spring.svg" alt="spring" width="60" height="50"/> </a>
 </p>
 <h4>Tools</h4>
 <hr>
 <p  align="center">
 <a href="https://www.arduino.cc/" target="_blank"><img src="/images/arduino.png" alt="arduino" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"><img src="/images/firebase.png" alt="firebase" width="40" height="40"/></a>
-<a href="https://heroku.com" target="_blank"> <img src="/images/heroku.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank"><img src="/images/firebase.png" alt="firebase" width="70" height="40"/></a>
+<a href="https://heroku.com" target="_blank"> <img src="/images/heroku.svg" alt="heroku" width="70" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="/images/ubuntu.png" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="/images/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="/images/postman.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="/images/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="/images/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank"> <img src="/images/postman.svg" alt="postman" width="70" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="/images/bootstrap.svg" alt="bootstrap" width="60" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="/images/git.svg" alt="git" width="60" height="40"/> </a> 
 </p>
 <!-- <p align="center">
  <a href="https://developer.android.com" target="_blank">
@@ -59,7 +59,7 @@
  </a> 
 </p>
  -->
-
+</br>
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro-munoz-25&show_icons=true&theme=radical&locale=en&layout=compact" alt="alejandro-munoz-25" /></p>
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandro-munoz-25&show_icons=true&theme=radical&hide=issues,contribs&locale=en" alt="alejandro-munoz-25" /></p>
 <p>
