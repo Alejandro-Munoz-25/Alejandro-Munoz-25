@@ -15,7 +15,7 @@
 <h3 align="left">Languages</h3>
 <hr>
 <p align="center">
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://iconscout.com/icon/c-programming" alt="c" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img2.freepng.es/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" alt="c" width="40" height="40"/> </a>
 </p>
 <h4>Frameworks</h4>
 <hr>
