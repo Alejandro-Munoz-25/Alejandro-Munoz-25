@@ -40,6 +40,8 @@
 <a href="https://angular.io" target="_blank"><img src="/images/angular.png" alt="angularjs" width="50" height="50"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="/images/flutter.svg" alt="flutter" width="60" height="50"/> </a> 
 <a href="https://spring.io/" target="_blank"> <img src="/images/spring.svg" alt="spring" width="60" height="50"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="/images/bootstrap.svg" alt="bootstrap" width="60" height="40"/> </a> 
+
 </p>
 <h4>Tools</h4>
 <hr>
@@ -50,7 +52,6 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="/images/ubuntu.png" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="/images/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="/images/postman.svg" alt="postman" width="70" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="/images/bootstrap.svg" alt="bootstrap" width="60" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="/images/git.svg" alt="git" width="60" height="40"/> </a> 
 </p>
 <!-- <p align="center">
