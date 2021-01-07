@@ -60,11 +60,14 @@
 </p>
  -->
 </br>
-<p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro-munoz-25&show_icons=true&theme=radical&locale=en&layout=compact" alt="alejandro-munoz-25" /></p>
-<p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandro-munoz-25&show_icons=true&theme=radical&hide=issues,contribs&locale=en" alt="alejandro-munoz-25" /></p>
-<p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro-munoz-25&show_icons=true&theme=radical&locale=en&layout=compact" alt="alejandro-munoz-25" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=alejandro-munoz-25&show_icons=true&theme=radical&hide=issues,contribs&locale=en" alt="alejandro-munoz-25" />
+</p>
 <p align="center">
-<a href="https://wakatime.com" ><img src="https://wakatime.com/share/@03dc2a25-39a0-455b-abe9-00936ba60896/a2425bd2-1924-4647-a5bc-8db78f11c3b6.png"  width="600" height="450"/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@03dc2a25-39a0-455b-abe9-00936ba60896/a2425bd2-1924-4647-a5bc-8db78f11c3b6.png"  width="600" height="350"/>
+</a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@03dc2a25-39a0-455b-abe9-00936ba60896/03c6636d-4266-46a1-a6de-076b83a8fad8.png" width="500" height="350" />
 </a>
 </p>
+
   
