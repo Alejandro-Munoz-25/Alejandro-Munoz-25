@@ -30,14 +30,14 @@
 <h4>DataBase</h4>
 <hr>
 <p align="center">
-<a href="https://www.mongodb.com/" target="_blank"> <img src="/images/mongodb.svg" alt="mongodb" width="70" height="60"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="/images/mysql.png" alt="mysql" width="70" height="50"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="/images/postgre.png" alt="postgresql" width="100" height="50"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="/images/mongodb.svg" alt="mongodb" width="60" height="50"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="/images/mysql.png" alt="mysql" width="60" height="50"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="/images/postgre.png" alt="postgresql" width="60" height="50"/> </a> 
 </p>
 <h4>Frameworks</h4>
 <hr>
 <p  align="center">
-<a href="https://angular.io" target="_blank"><img src="/images/angular.png" alt="angularjs" width="50" height="50"/> </a> 
+<a href="https://angular.io" target="_blank"><img src="/images/angular.png" alt="angularjs" width="60" height="50"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="/images/flutter.svg" alt="flutter" width="60" height="50"/> </a> 
 <a href="https://spring.io/" target="_blank"> <img src="/images/spring.svg" alt="spring" width="60" height="50"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="/images/bootstrap.svg" alt="bootstrap" width="60" height="40"/> </a> 
