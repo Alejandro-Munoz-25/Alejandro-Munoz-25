@@ -17,15 +17,11 @@
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="./images/cplus.png" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./images/css.png" alt="css3" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank"> <img src="/images/dart.png" alt="dart" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="/images/nodejs-horizontal.svg" alt="express" width="50" height="40"/></a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="/images/html.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="/images/java.png" alt="java" width="60" height="50"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="/images/js.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank"> <img src="/images/matlab.png" alt="matlab" width="100" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank"> <img src="/images/php.png" alt="php" width="50" height="50"/> </a> 
-<a href="https://sass-lang.com" target="_blank"> <img src="/images/sass.png" alt="sass" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="/images/typescript.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 <h4>DataBase</h4>
 <hr>
@@ -46,11 +42,9 @@
 <h4>Tools</h4>
 <hr>
 <p  align="center">
-<a href="https://www.arduino.cc/" target="_blank"><img src="/images/arduino.png" alt="arduino" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"><img src="/images/firebase.png" alt="firebase" width="70" height="40"/></a>
 <a href="https://heroku.com" target="_blank"> <img src="/images/heroku.svg" alt="heroku" width="70" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="/images/ubuntu.png" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="/images/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="/images/postman.svg" alt="postman" width="70" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="/images/git.svg" alt="git" width="60" height="40"/> </a> 
 </p>
