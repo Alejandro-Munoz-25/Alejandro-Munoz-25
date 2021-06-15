@@ -11,9 +11,8 @@
 <a href="https://www.linkedin.com/in/alejandro-mu%c3%b1oz-casta/" target="_blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/179/179330.svg" alt="https://www.linkedin.com/in/alejandro-mu%c3%b1oz-casta/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alejaandromunoz25" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="alejaandromunoz25" height="30" width="40" /></a>
 </p>
-<br/>
-<p align="center"><a href="https://alejandro-munoz.web.app/" target="_blank">Portfolio</a>
-</p>
+<h3 align="center"><a href="https://alejandro-munoz.web.app/" target="_blank">Web Page</a>
+</h3>
 <h3 align="left">Languages</h3>
 <hr>
 <p align="center">
