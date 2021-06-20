@@ -13,7 +13,7 @@
 </p>
 <h3 align="center"><a href="https://alejandro-munoz.web.app/" target="_blank">Web Page</a>
 </h3>
-<h3 align="left">Languages</h3>
+<!--<h3 align="left">Languages</h3>
 <hr>
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="./images/cplus.png" alt="c" width="40" height="40"/> </a>
@@ -49,11 +49,12 @@
 <a href="https://postman.com" target="_blank"> <img src="/images/postman.svg" alt="postman" width="70" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="/images/git.svg" alt="git" width="60" height="40"/> </a> 
 </p>
-<!-- <p align="center">
+ <p align="center">
  <a href="https://developer.android.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>
  </a> 
 </p>
+-->
  
 </br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro-munoz-25&show_icons=true&theme=radical&locale=en&layout=compact" alt="alejandro-munoz-25" />&nbsp;
@@ -66,5 +67,4 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@03dc2a25-39a0-455b-abe9-00936ba60896/03c6636d-4266-46a1-a6de-076b83a8fad8.png" width="500" height="350" />
 </a>
 </p>
--->
   
