@@ -6,13 +6,14 @@
 
 - ⚡ Fun fact **I love play videogames and I like to learn new things**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="center">
-<a href="https://www.linkedin.com/in/alejandro-mu%c3%b1oz-casta/" target="_blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/179/179330.svg" alt="https://www.linkedin.com/in/alejandro-mu%c3%b1oz-casta/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alejaandromunoz25" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="alejaandromunoz25" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alejandro-munoz-c/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://alejandro-munoz.web.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+<a href="https://www.leetcode.com/alejaandromunoz25"><img src="https://img.shields.io/badge/LeetCode-FF5733?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
-<h3 align="center"><a href="https://alejandro-munoz.web.app/" target="_blank">Web Page</a>
-</h3>
+### I'm Currently Learning:
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <!--<h3 align="left">Languages</h3>
 <hr>
 <p align="center">
