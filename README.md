@@ -1,4 +1,4 @@
- <img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi 👋, I'm Alejandro&fontSize=40">
+
  
 <h3 align="center">I'm an Engineering in Industrial Robotics and a passionate developer</h3>
 
